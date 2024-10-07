@@ -1,0 +1,2 @@
+POST http://localhost:8080/api/v1/getidbyfolderid/1
+Content-Type: application/json
